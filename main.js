@@ -11,7 +11,7 @@ const moviesObject = {
     "Su vocalista arrancó la cabeza de un murciélago con su boca": "Black Sabbath",
     "Subió la tasa de natalidad en francia después de que una canción se convirtiera en hit ": "Scorpions",
     "El maquillaje de la banda está inspirado en el cine de terror": "Kiss",
-    "El nombre a la banda es porque el padre de un miembro trabajaba en la CIA": "The Police",
+    "El nombre de la banda es porque el padre de un miembro trabajaba en la CIA": "The Police",
     "La portada de uno de sus discos presenta a un perro llamado Sunshine": "Alice in chains",
 };
 
